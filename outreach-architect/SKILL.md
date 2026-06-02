@@ -221,7 +221,7 @@ outreach/
 
 ## Залежні скіли / команди
 
-- `apollo:prospect` / `apollo:verify` — рушій пошуку й верифікації (див. `lesson-3-apollo-skill-SPEC.md`). Email-команд немає.
+- `apollo:prospect` / `apollo:verify` — рушій пошуку й верифікації (див. `lesson-3-ENGINE-technical.md`). Email-команд немає.
 - `linkedin-enrich` — Apify-валідація аудиторії в один запуск (fallback ФАЗИ 6).
 - `lesson-3-37-ways-handout.md` — повний playbook 37 схем (джерело для `framework-matrix.md`).
 - reference: `framework-matrix.md` (ФАЗА 3) · `apify-validation.md` (ФАЗА 6) · `sequence-playbook.md` (ФАЗА 7).
